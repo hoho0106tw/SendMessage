@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\OorMainKiller\bin\Debug\OorMainKiller.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\OorMainKiller\bin\Debug\OorMainKiller.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\OorMainKiller\obj\Debug\OorMainKiller.csprojAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\OorMainKiller\obj\Debug\OorMainKiller.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\OorMainKiller\obj\Debug\OorMainKiller.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\OorMainKiller\obj\Debug\OorMainKiller.pdb
+C:\Users\HOHO\Desktop\新增資料夾 (24)\OorMainKiller\bin\Debug\OorMainKiller.pdb
+C:\Users\HOHO\Desktop\新增資料夾 (24)\OorMainKiller\obj\Debug\OorMainKiller.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\新增資料夾 (24)\OorMainKiller\obj\Debug\OorMainKiller.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\新增資料夾 (24)\OorMainKiller\obj\Debug\OorMainKiller.pdb
+C:\Users\HOHO\Desktop\新增資料夾 (24)\OorMainKiller\bin\Debug\OorMainKiller.exe
+C:\Users\HOHO\Desktop\新增資料夾 (24)\OorMainKiller\obj\Debug\OorMainKiller.exe
